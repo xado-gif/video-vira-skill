@@ -2,7 +2,8 @@
 
 Vídeos do YT viram uma skill no Claude.AI, focado no Claude Chat, onde o uso é gratuito.
 
-escreve o `spec.md` e a skill em texto.
+O Gemini assiste ao vídeo, o Claude audita e escreve o `spec.md` e a skill em texto.
+Sem Claude Code e sem plano pago.
 
 ## Conteúdo
 
